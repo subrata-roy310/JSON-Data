@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Products Area CSS Start */
+.product-area .single-product {
+    border: 1px solid #cec8c8;
+    padding: 10px;
+}
+
+.single-product button {
+    background-color: #FFA500;
+    color: #ffffff;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.single-product img {
+    background-color: #888;
+}
